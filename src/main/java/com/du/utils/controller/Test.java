@@ -1,4 +1,4 @@
-package com.du.controller;
+package com.du.utils.controller;
 
 import java.util.*;
 
